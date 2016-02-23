@@ -1,7 +1,7 @@
 name: bp_Sketching
 favicon: null
-layout_spectrum: 0.49564476567320526
-typography_spectrum: 0.7765753853600472
+layout_spectrum: 0.33326
+typography_spectrum: 0.26287
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.32051360816694796
-  lightness: 0.9115494941361248
-  saturation: 0.747490378562361
-  rhythmicContrast: 0.9982206837739795
+    - '#fefefe'
+    - '#0e0f10'
+    - '#646f77'
+    - '#c5c5c5'
+    - '#899197'
+  brandStrength: 0.625
+  lightness: 0.0625
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
